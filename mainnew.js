@@ -1,4 +1,4 @@
-if (window.location.href == "http://127.0.0.1:5500/BuyTickets.html") {
+if (window.location.href == "https://127.0.0.1:5500/BuyTickets.html") {
 
     // calander 
 
