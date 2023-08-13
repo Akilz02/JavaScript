@@ -1550,7 +1550,7 @@ if (window.location.href == "http://akilz02.github.io/JavaScript/BuyTickets.html
 
 //Details page
 
-if (window.location.href == "https://akilz02.github.io/JavaScript/Details.html") {
+if (window.location.href == "http://akilz02.github.io/JavaScript/Details.html") {
 
     document.getElementById("selected-date").innerText = sessionStorage.getItem("saved-date");
     document.getElementById("selected-time").innerText = sessionStorage.getItem("saved-time");
@@ -1712,7 +1712,7 @@ if (window.location.href == "https://akilz02.github.io/JavaScript/Details.html")
 
 // Payment page
 
-if (window.location.href == "https://akilz02.github.io/JavaScript/Payment.html") {
+if (window.location.href == "http://akilz02.github.io/JavaScript/Payment.html") {
 
     document.getElementById("selected-date").innerText = sessionStorage.getItem("saved-date");
     document.getElementById("selected-time").innerText = sessionStorage.getItem("saved-time");
@@ -1772,7 +1772,7 @@ function settingStorage() {
 //Conformation page
 
 
-if (window.location.href == "https://akilz02.github.io/JavaScript/Conformation.html") {
+if (window.location.href == "http://akilz02.github.io/JavaScript/Conformation.html") {
 
     document.getElementById("selected-date").innerText = sessionStorage.getItem("saved-date");
     document.getElementById("selected-time").innerText = sessionStorage.getItem("saved-time");
