@@ -1,4 +1,4 @@
-if (window.location.href == "https://akilz02.github.io/JavaScript/BuyTickets.html") {
+if (window.location.href == "http://akilz02.github.io/JavaScript/BuyTickets.html") {
 
     // calander 
 
